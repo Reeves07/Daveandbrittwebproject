@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header{
     text-align: center;
   font-size:90px;
@@ -16,4 +17,25 @@ border-radius: 25px;
  padding-bottom:15px;
  width: 20%;
  height: 100px;
+=======
+/*This is the css file*/
+
+.top{
+  height: 80%;
+  width: 100%;
+  background-color: red;
+}
+.middle{
+  height: 50px;
+  width: 100%;
+  background-color: yellow;
+}
+.bottom{
+  height: 20%;
+  width: 100%;
+  background-color: blue;
+}
+.mainhd{
+  color: white;
+>>>>>>> c7e28e48c88ec0a5b0497ba531d68cc795ba5602
 }
