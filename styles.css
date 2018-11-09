@@ -1,0 +1,19 @@
+.header{
+    text-align: center;
+  font-size:90px;
+  border-radius: 25px;
+   background: #80bfff;
+   padding-bottom:15px;
+   width: 80%;
+   height: 100px;
+   margin: auto;
+}
+.content-box{
+  text-align: center;
+font-size:25px;
+border-radius: 25px;
+ background: #80bfff;
+ padding-bottom:15px;
+ width: 20%;
+ height: 100px;
+}
