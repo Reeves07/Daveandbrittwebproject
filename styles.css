@@ -1,5 +1,3 @@
-/*Author David Reeves
-CSS file for IS4410 Final Project*/
 .header{
     text-align: center;
   font-size:90px;
@@ -22,54 +20,6 @@ border-radius: 25px;
     margin-right:20%;
     margin-top:150px;
   }
-
-.top{
-  height: 250px;
-  width: 100%;
-  background-color: red;
-
-}
-.nav{
-  height: 50px;
-  width: 100%;
-  word-spacing: 50px;
-  font-size: 150%;
-  line-height: 2;
-  background-color: yellow;
-}
-.middle{
-  height: 100%;
-  width: 100%;
-  background-color: grey;
-}
-.bottom{
-  height: 250px;
-  width: 100%;
-  background-color: blue;
-}
-.top-text{
-  margin-left: 5%;
-  line-height: 4;
-  font-size: 400%;
-}
-.left{
-  height: 100%;
-  width: 40%;
-  margin-left:3%;
-  margin-top:3%;
-  margin-bottom:3%;
-  float:left;
-  background-color: pink;
-}
-.right{
-  height: 100%;
-  width: 40%;
-  float:right;
-  background-color: orange;
-}
-.main-text{
-
-}
-.footer-table{
-
+  li {
+    display: inline;
 }
