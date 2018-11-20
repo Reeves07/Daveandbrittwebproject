@@ -9,32 +9,31 @@
   margin: auto;
 }
 .content-box{
-  
+
   text-align: center;
   font-size:25px;
   border-radius: 25px;
   background: #80bfff;
   padding-bottom:15px;
   width: 40%;
-  height: 100px;
+  height: 120px;
   float: right;
   margin-right:20%;
-  margin-top:150px;
+  margin-top: 30px;
 }
 img {
-    width: 100%;
+    width: 60%;
     height: auto;
 }
 .left-content{
   border-radius: 25px;
-  background: #80bfff;
   padding-bottom:15px;
   width: 40%;
   height: auto;
   max-width: 40%;
   max-height: 50px;
   float: left;
-  margin-left: 20px;
+  margin-left: 15%;
   margin-right:20%;
   margin-top:30px;
 }
@@ -64,3 +63,16 @@ li {
   margin-right:20%;
   margin-top:60px;}
   body{background-color:#cce6ff;}
+
+  .center-box{
+    text-align: center;
+    font-size:25px;
+    border-radius: 25px;
+    background: #80bfff;
+    padding-bottom:15px;
+    width: 40%;
+    height: 120px;
+    margin-top: 90px;
+    margin-left:30%;
+    margin-right:30%;
+    padding-top:30px;}
