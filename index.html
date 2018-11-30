@@ -2,19 +2,23 @@
 <html>
 <head>
   <title> Vacuums Corp </title>
-  <link rel="stylesheet" href="styles.css"></head>
+  <link rel="stylesheet" href="styles.css">
+  <script src="myScript.js"></script>
+</head>
   <body>
-    <div class="header">Vacuums</div>
-    <div class="linebar"> <ul>
+    <div class="header">Vacuums Corp</div>
+    <div class="linebar">
+      <ul>
       <li><a href="index.html">Home</a></li>
       <li><a href="about.html">About</a></li>
       <li><a href="contact.html">Contact</a></li>
     </ul> </div>
-    <div class="left-content">
-      <image src="Vacuum.png"/>
+    <div onclick="toggleImage('img','Vacuum.png', 'Vacuum2.png', 'Vacuum3.png')" class="left-content">
+      <image id="img" src="Vacuum.png"/>
     </div>
     <div class="content-box">
-      <p>Blah Blah Blah</p>
+      <p>We have been in buisness since 1945 becoming one of the greatest Vacuum Manufacturers today.
+      No one else can beat our competition when it comes to a quality Vacuum for a great price. </p>
     </div>
   </body>
   </html>

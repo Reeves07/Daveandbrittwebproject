@@ -14,13 +14,14 @@
   font-size:25px;
   border-radius: 25px;
   background: #80bfff;
-  padding-bottom:15px;
-  width: 40%;
-  height: 120px;
-  float: right;
-  margin-right:20%;
-  margin-top: 30px;
+  padding-bottom:50px;
+  padding-top:10px;
+  width: 55%;
+  height: 100px;
+  margin-left:40%;
+  margin-top: 100px;
 }
+
 img {
     width: 60%;
     height: auto;
@@ -69,10 +70,23 @@ li {
     font-size:25px;
     border-radius: 25px;
     background: #80bfff;
-    padding-bottom:15px;
-    width: 40%;
-    height: 120px;
-    margin-top: 90px;
+    padding-bottom:2px;
+    width: 50%;
+    height: 130px;
+    margin-top: 50px;
     margin-left:30%;
     margin-right:30%;
-    padding-top:30px;}
+    padding-top:40px;}
+
+    .column{
+      font-size:20px;
+      border-radius: 25px;
+      background: #80bfff;
+      padding-bottom:10px;
+      width:50%;
+      height: 130px;
+      margin-top: 150px;
+      margin-left:30%;
+      margin-right:30%;
+      padding-top:10px;
+    }
